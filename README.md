@@ -1,6 +1,8 @@
 # mycard
 
-A new Flutter project.
+A Simple Flutter project.
+
+![screenshot](Capture.PNG?raw=true "Capture")
 
 ## Getting Started
 
